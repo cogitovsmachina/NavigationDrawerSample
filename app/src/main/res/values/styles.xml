@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Theme.Platzi" parent="Base.AppTheme"/>
+
+    <style name="Base.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/ToolbarprimaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/navDrawerAccentColor</item>
+
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+</resources>

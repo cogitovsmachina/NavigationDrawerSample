@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation Drawer Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_item">Inicio</string>
+    <string name="products_item">Productos</string>
+    <string name="cart_item">Carrito</string>
+    <string name="orders_item">Ordenes</string>
+    <string name="invoices_item">Facturas</string>
+    <string name="log_out_item">Cerrar Sesión</string>
+    <string name="settings_item">Configuración</string>
+    <string name="email_navdrawer">kike@devf.mx</string>
+    <string name="name_navdrawer">Enrique Diaz</string>
+</resources>
